@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "titulo": "Pasear al perro",
+        "descripcion": "Pasear al perro por el parque.",
+        "completada": true,
+        "fecha_creacion": "2023-10-01T12:00:00Z"
+    },
+    {
+        "id":2,
+        "titulo": "Lavar el auto",
+        "descripcion": "Lavar el auto con agua y jabón.",
+        "completada": false,
+        "fecha_creacion": "2023-10-01T12:00:00Z"
+    },
+    {
+        "id":3,
+        "titulo": "Hacer las compras",
+        "descripcion": "Comprar leche, pan y huevos.",
+        "completada": false,
+        "fecha_creacion": "2023-10-01T12:00:00Z"
+    },
+    {
+        "id":4,
+        "titulo": "Estudiar para el examen",
+        "descripcion": "Estudiar los temas 1, 2 y 3 para el examen de la próxima semana.",
+        "completada": false,
+        "fecha_creacion": "2023-10-01T12:00:00Z"
+    }
+]
